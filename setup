@@ -2,13 +2,20 @@
 echo "This script will change your default config files!"
 echo "3"
 sleep 0.8
+
 echo "2"
 sleep 0.8
+
 echo "1"
 sleep 0.8
+
 mkdir -p ~/.config/
 mkdir -p ~/.config/i3/
 mkdir =p ~/.config/alacritty/
+
+sudo mkdir -p /usr/share/fonts/Cozette/
+sudo mv CozetteVector.ttf /usr/share/fonts/Cozette/
+
 mv config ~/.config/i3/
 mv alacritty.toml ~/.config/alacritty/
 mv wall.jpg ~
