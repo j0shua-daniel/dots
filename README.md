@@ -1,7 +1,7 @@
 # Dots
 My i3wm config files.
 
-![dots](https://github.com/j0shua-daniel/images/blob/main/2025-02-01-163348_1920x1080_scrot.png?raw=true)
+![dots](https://github.com/j0shua-daniel/images/blob/main/2025-02-01-173501_1920x1080_scrot.png?raw=true)
 
 ## Dependencies
 1. `alacritty`
