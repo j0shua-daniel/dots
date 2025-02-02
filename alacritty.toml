@@ -1,0 +1,83 @@
+[window]
+padding = { x = 23, y = 23 }
+
+[font]
+normal = { family = "CozetteVector", style = "Regular" }
+bold = { family = "CozetteVector", style = "Regular" }
+size = 10
+
+
+[colors.primary]
+background            = "#0a0a0a"
+foreground            = "#7d7d7d"
+dim_foreground        = "#0a0a0a"
+bright_foreground     = "#7d7d7d"
+
+[colors.cursor]
+text                  = "#7d7d7d"
+cursor                = "#7d7d7d"
+
+[colors.vi_mode_cursor]
+text                  = "#7d7d7d"
+cursor                = "#7d7d7d"
+
+[colors.search.matches]
+foreground            = "#7d7d7d"
+background            = "#111111"
+
+[colors.search.focused_match]
+foreground            = "#7d7d7d"
+background            = "#111111"
+
+[colors.hints.start]
+foreground            = "#7d7d7d"
+background            = "#111111"
+
+[colors.hints.end]
+foreground            = "#7d7d7d"
+background            = "#111111"
+
+[colors.line_indicator]
+#foreground            = "None"
+#background            = "None"
+
+[colors.footer_bar]
+foreground            = "#7d7d7d"
+background            = "#111111"
+
+[colors.selection]
+text                  = "#7d7d7d"
+background            = "#111111"
+
+[colors.normal]
+black                 = "#7d7d7d"
+red                   = "#7d7d7d"
+green                 = "#7d7d7d"
+yellow                = "#7d7d7d"
+blue                  = "#7d7d7d"
+magenta               = "#7d7d7d"
+cyan                  = "#7d7d7d"
+white                 = "#7d7d7d"
+
+[colors.bright]
+black                 = "#7d7d7d"
+red                   = "#7d7d7d"
+green                 = "#7d7d7d"
+yellow                = "#7d7d7d"
+blue                  = "#7d7d7d"
+magenta               = "#7d7d7d"
+cyan                  = "#7d7d7d"
+white                 = "#7d7d7d"
+
+[colors.dim]
+black                 = "#7d7d7d"
+red                   = "#7d7d7d"
+green                 = "#7d7d7d"
+yellow                = "#7d7d7d"
+blue                  = "#7d7d7d"
+magenta               = "#7d7d7d"
+cyan                  = "#7d7d7d"
+white                 = "#7d7d7d"
+
+[cursor.style]
+shape = "Beam"
